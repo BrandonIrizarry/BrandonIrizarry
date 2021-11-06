@@ -1,0 +1,37 @@
+A small program used to calculate sums and differences of 64-bit hexadecimal
+integers given at the command line, used for solving an exercise given in the
+Open Security Training 2 course, "Architecture 1001: x86-64 Assembly":
+
+https://p.ost2.fyi/dashboard
+
+(then see "Architecture 1001: x86-64 Assembly". The particular exercise is to
+be found in the section "Calling Functions  RoX0r Arcade: DarkMathemagic:
+MOV, ADD, SUB  Level 2: mov, add, sub w/ calculator".)
+
+The arithmetic arguments are meant to be entered as they appear from top to
+bottom in the exercise. Those will be the first two command-line arguments.
+
+The next argument is a single character: either 'a' for addition, or 's'
+for subtraction.
+
+The next argument is a single character: either 'n' for 
+"normal order" (top to bottom), or 'r' (bottom term first, then the top:
+reverse the order of the arguments, depending on how the sub instruction
+is given. This was done more as a convenience, so I wouldn't have to manually 
+keep track of how to order the arithmetic command-line arguments.)
+
+The final argument is the name of a file to write the result to. Since I was
+developing this on CodeLite, the terminal used there doesn't let me copy to
+the system clipboard, so I had the program write the answer to disk, from 
+where I could eventually copy the answer over to the answer field in the
+exercise. Assuming the file was called "hexcalc_output.txt", I would do
+something like
+
+cat hexcalc_output.txt | xclip -sel c
+
+This way, I wouldn't have to open an editor just to copy the answer.
+
+In sum, the program did the trick. At first I was doing them by hand,
+but that got too tedious, so (since the exercise explicitly lets you use
+a calculator), I opted for a shortcut. While not much, I'm still a bit proud
+of this program, so I've decided to save it on Github.
