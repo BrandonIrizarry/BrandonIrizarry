@@ -4,7 +4,3 @@ in New York City.
 
 You've reached my eponymous Github account; it houses a collection of
 various things I've worked on.
-
-Currently, I'm learning full-stack Web development with [[https://www.theodinproject.com][The Odin
-Project]]. With time, more projects will appear here (and certain old,
-obsolete ones will be pruned away.)
