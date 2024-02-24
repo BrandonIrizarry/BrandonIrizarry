@@ -1,6 +1,2 @@
 * Welcome!
-My name is Brandon Irizarry. I'm an aspiring software developer based
-in New York City.
-
-You've reached my eponymous Github account; it houses a collection of
-various things I've worked on.
+This portion of my Github profile is under construction.
