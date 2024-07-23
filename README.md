@@ -46,7 +46,7 @@ tough, but hope springs eternal.
 ## Other Tooling
 | Git | Magit |
 |-----|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" /> | <img src="magit.svg" width="55" height="55"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" /> | <img src="magit-red.svg" width="55" height="55"/> |
 
 <pre>
 
