@@ -36,24 +36,18 @@ write Android apps in the future.
 |--------|-------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55"/> |
 
-<pre>
-
-
-
-
-</pre>
+<br/>
+<br/>
+<br/>
 
 ## Other Tooling
 | Git | Magit |
 |-----|-------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" /> | <img src="magit-red.svg" width="55" height="55"/> |
 
-<pre>
-
-
-
-
-</pre>
+<br/>
+<br/>
+<br/>
 
 ### Editors
 
@@ -63,12 +57,9 @@ Because why not. 😁
 |----------|-------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" width="55" height="55" />
 
-<pre>
-
-
-
-
-</pre>
+<br/>
+<br/>
+<br/>
 
 ## OSes
 
@@ -76,12 +67,9 @@ Because why not. 😁
 |-------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55" height="55" /> |
 
-<pre>
-
-
-
-
-</pre>
+<br/>
+<br/>
+<br/>
 
 ## Some Interesting Github Stats
 
