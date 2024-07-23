@@ -25,8 +25,8 @@ up on Java, since:
   completely from Java.
 
 I look forward to learning more things (for example, Python, Go) as
-the opportunity arises! My current work schedule makes this a little
-tough, but hope springs eternal.
+the opportunity arises! I have an eye especially on being able to
+write Android apps in the future.
 
 ## Social Media
 🐘 [Mastodon](https://emacs.ch/@bci "My Fediverse presence.")
