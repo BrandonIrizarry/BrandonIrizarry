@@ -1,35 +1,7 @@
 ## About Me
-A guy interested in becoming more involved in the tech sphere.
-
-I mostly gravitate towards weird languages like Lisp (I currently
-write Emacs Lisp stuff sometimes when I'm bored.) I've studied and
-greatly enjoyed Forth in the past, though I've forgotten much of it
-now.
-
-However, in terms of more in-vogue stuff, I've lately been picking up
-and enjoying Kotlin, because of its pragmatism (for example, avoiding
-nullability as much as possible while still making it opt-in.) I also
-enjoy Kotlin's strong static type system, something I came to love
-when playing around with SML a while back. To this end, I'm brushing
-up on Java, since:
-
-- It's an important language in its own right. For example, the
-  popularity of the Spring Boot backend framework attests to
-  this. Also:
-
-- Kotlin is heavily predicated on the JVM, and consequently the
-  default user experience involves constantly falling back to existing
-  Java libraries. It also inherits certain limitations from Java (for
-  example, type erasure), and the way in which we write multi-threaded
-  Kotlin code (as opposed to using coroutines) is basically lifted
-  completely from Java.
-
-I look forward to learning more things (for example, Python, Go) as
-the opportunity arises! I have an eye especially on being able to
-write Android apps in the future.
-
-## Social Media
-🐘 [Mastodon](https://emacs.ch/@bci "My Fediverse presence.")
+My current interests revolve around JVM languages (Java, Kotlin,
+Scala). I'm mostly focused on Java since it's foundational to all of
+them, but hope to get my feet wet with the latter two at some point.
 
 ## Languages and Tools
 | Kotlin | Java  |
