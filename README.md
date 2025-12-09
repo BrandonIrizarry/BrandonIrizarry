@@ -14,3 +14,6 @@ interest in:
 - Lua
 - C
 - Emacs Lisp
+
+I also maintain a [blog](https://brandonirizarry.xyz), where I write about various topics,
+mostly of a technical nature.
