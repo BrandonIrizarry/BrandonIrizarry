@@ -15,5 +15,4 @@ interest in:
 - C
 - Emacs Lisp
 
-I also maintain a [blog](https://brandonirizarry.xyz), where I write about various topics,
-mostly of a technical nature.
+I've also recently started maintaining a [blog](https://brandonirizarry.xyz).
